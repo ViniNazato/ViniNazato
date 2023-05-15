@@ -1,5 +1,5 @@
 # 💫 About Me:
-⚡I'm a data scientist with a business degree, passionate about solving machine learning and statistics.<br>💬 Add me on [LinkeIn](https://linkedin.com/in/vinicius-nazato) or send me an [Email](v.nazato@gmail.com)<br>
+⚡I'm a data scientist with a business degree, passionate about solving machine learning and statistics.<br>💬 Add me on [LinkedIn](https://linkedin.com/in/vinicius-nazato) or send me an [Email](v.nazato@gmail.com)<br>
 
 
 ## 🌐 Socials:
